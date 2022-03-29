@@ -1,0 +1,18 @@
+.router-start {
+    text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: calc(50% - 50px);
+    background-color: #d17c84;
+    height: 50px;
+    width: 100px;
+  }
+
+a {
+    text-decoration: none;
+  }
+
+p {
+      text-align: center;
+      color: black;
+  }
