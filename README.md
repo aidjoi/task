@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 项目介绍
+
+首页为start App界面，点击路由跳转到学习界面
+
+点击添加按钮之后，输入内容，enter之后添加数据。可以对数据进行删除拖动
 ## Available Scripts
 
 In the project directory, you can run:
