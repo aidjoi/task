@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aidjoi/task.io/static/css/main.c5580a1c.chunk.css",
+    "main.js": "/aidjoi/task.io/static/js/main.3b3301b4.chunk.js",
+    "main.js.map": "/aidjoi/task.io/static/js/main.3b3301b4.chunk.js.map",
+    "runtime-main.js": "/aidjoi/task.io/static/js/runtime-main.f5f22572.js",
+    "runtime-main.js.map": "/aidjoi/task.io/static/js/runtime-main.f5f22572.js.map",
+    "static/js/2.8250453a.chunk.js": "/aidjoi/task.io/static/js/2.8250453a.chunk.js",
+    "static/js/2.8250453a.chunk.js.map": "/aidjoi/task.io/static/js/2.8250453a.chunk.js.map",
+    "index.html": "/aidjoi/task.io/index.html",
+    "static/css/main.c5580a1c.chunk.css.map": "/aidjoi/task.io/static/css/main.c5580a1c.chunk.css.map",
+    "static/js/2.8250453a.chunk.js.LICENSE.txt": "/aidjoi/task.io/static/js/2.8250453a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f22572.js",
+    "static/js/2.8250453a.chunk.js",
+    "static/css/main.c5580a1c.chunk.css",
+    "static/js/main.3b3301b4.chunk.js"
+  ]
+}
